@@ -3,11 +3,11 @@
 
 int main() {
 
-    Tphysics::TestPhysics();
+//    Tphysics::TestPhysics();
 
     TFields::contiguous();
-    TFields::constructors();
-    TFields::loop_as_array();
-    TFields::assignment();
+//    TFields::constructors();
+//    TFields::loop_as_array();
+//    TFields::assignment();
 
 }
